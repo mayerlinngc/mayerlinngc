@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>Ejemplo1</title>
+    <title>HOLA WOOORLLDD</title>
   </head>
   <body>
     <p>Párrafo de ejemplo</p>
